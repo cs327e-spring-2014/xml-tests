@@ -1,0 +1,1070 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU>
+<Team><Cooly></Cooly></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU><Team><Cooly></Cooly></Team>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><green></green></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><blue></blue></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><yellow></yellow></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><blue></blue></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><yellow></yellow></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><purple></purple></green>
+
+<cielo>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</cielo>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<rojo>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</rojo>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul><azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<red>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</red>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<rojo>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</rojo>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul><azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</azul>
+<azul><verde></verde></azul>
+
+<cielo>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</cielo>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<rojo>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</rojo>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado><azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<red>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</red>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<rojo>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</rojo>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado><azul>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<plateado>
+    <verde>
+        <blue></blue>
+        <amarillo></amarillo>
+    </verde>
+</plateado>
+<rojo><verde><blue></blue></verde></rojo>
+
+<cielo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</cielo>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado><verde></verde></plateado>
+
+<cielo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</cielo>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<plateado>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</plateado>
+<verde></verde>
+
+<cielo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</cielo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion><carro><verde></verde></carro></avion>
+
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion></avion>
+
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<tele><radio><control><nintendo></nintendo></control></radio></tele>
+
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+            <tele>
+                <radio>
+                     <control>
+                          <nintendo>
+                          </nintendo>
+                     </control>
+                </radio>
+           </tele>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<red>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</red>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<rojo>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</rojo>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion><azul>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<avion>
+    <carro>
+        <blue></blue>
+        <amarillo></amarillo>
+    </carro>
+</avion>
+<alohamora></alohamora>
