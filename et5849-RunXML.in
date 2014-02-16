@@ -1,23 +1,23 @@
-<THU>
-	<Team>
-		<ACRush></ACRush>
-		<Jelly></Jelly>
-		<Cooly></Cooly>
-	</Team>
-	<JiaJia>
-		<Team>
-			<Ahyangyi></Ahyangyi>
-			<Dragon></Dragon>
-			<Cooly><Amber></Amber></Cooly>
-		</Team>
-	</JiaJia>
-</THU>
-<Team><Cooly></Cooly></Team>
+<thu>
+	<team>
+		<acrush></acrush>
+		<jelly></jelly>
+		<cooly></cooly>
+	</team>
+	<jiajia>
+		<team>
+			<ahyangyi></ahyangyi>
+			<dragon></dragon>
+			<cooly><amber></amber></cooly>
+		</team>
+	</jiajia>
+</thu>
+<team><cooly></cooly></team>
 
-<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU>
-<Team><Cooly></Cooly></Team>
+<thu><team><acrush></acrush><jelly></jelly><cooly></cooly></team><jiajia><team><ahyangyi></ahyangyi><dragon></dragon><cooly><amber></amber></cooly></team></jiajia></thu>
+<team><cooly></cooly></team>
 
-<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU><Team><Cooly></Cooly></Team>
+<thu><team><acrush></acrush><jelly></jelly><cooly></cooly></team><jiajia><team><ahyangyi></ahyangyi><dragon></dragon><cooly><amber></amber></cooly></team></jiajia></thu><team><cooly></cooly></team>
 
 <red>
     <green>
@@ -83,7 +83,7 @@
 </red>
 <green><yellow></yellow><blue></blue></green>
 
-<jeLlY>
+<jelly>
     <math>
         <math>
             <soccer>
@@ -92,10 +92,10 @@
         <soccer>
         </soccer>
     </math>
-</JeLLy>
+</jelly>
 <math><soccer></soccer></math>
 
-<jeLlY>
+<jelly>
     <math>
         <math>
             <soccer>
@@ -104,10 +104,10 @@
         <soccer>
         </soccer>
     </math>
-</JeLLy>
+</jelly>
 <math></math>
 
-<jeLlY>
+<jelly>
     <math>
         <math>
             <soccer>
@@ -118,10 +118,10 @@
             </gym>
         </soccer>
     </math>
-</JeLLy>
+</jelly>
 <math><gym></gym></math>
 
-<jeLlY>
+<jelly>
     <math>
         <math>
             <soccer>
@@ -134,10 +134,10 @@
         <soccer>
         </soccer>
     </math>
-</JeLLy>
+</jelly>
 <math><soccer></soccer></math>
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -145,7 +145,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
         </giraffes>
@@ -154,7 +154,7 @@
 <longhorn><circus><giraffes></giraffes></circus></longhorn>
 
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -162,7 +162,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
         </giraffes>
@@ -173,7 +173,7 @@
 <longhorn><circus><giraffes></giraffes><elephants></elephants></circus></longhorn>
 
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -181,7 +181,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
             <math>
@@ -199,7 +199,7 @@
 </longhorn>
 <math></math>
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -207,7 +207,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
         </giraffes>
@@ -219,7 +219,7 @@
 </longhorn>
 <longhorn><circus><giraffes></giraffes><elephants></elephants><case></case></circus></longhorn>
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -227,7 +227,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
             <case>
@@ -239,7 +239,7 @@
 </longhorn>
 <longhorn><circus><giraffes><case></case></giraffes><elephants></elephants></circus></longhorn>
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -251,7 +251,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
         </giraffes>
@@ -261,7 +261,7 @@
 </longhorn>
 <math><soccer></soccer></math>
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -273,7 +273,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
         </giraffes>
@@ -283,7 +283,7 @@
 </longhorn>
 <case></case>
 
-<lOnGHOrn>
+<longhorn>
     <math>
         <math>
             <soccer>
@@ -295,7 +295,7 @@
         </math>
         <soccer>
         </soccer>
-    </mAtH>
+    </math>
     <circus>
         <giraffes>
         </giraffes>
@@ -303,7 +303,7 @@
         </elephants>
     </circus>
 </longhorn>
-<lOnGHOrn><math><math><soccer><math><soccer></soccer></math></soccer></math><soccer></soccer></mAtH><circus><giraffes></giraffes><elephants></elephants></circus></longhorn>
+<longhorn><math><math><soccer><math><soccer></soccer></math></soccer></math><soccer></soccer></math><circus><giraffes></giraffes><elephants></elephants></circus></longhorn>
 
 <red>
     <yellow>
@@ -503,7 +503,7 @@
 		<adios>
 		</adios>
 	</name>
-	<Robert>
+	<robert>
 		<is>
 			<name>
 				<goodbye>
@@ -520,7 +520,7 @@
 		</is>
 		<yes>
 		</yes>
-	</Robert>
+	</robert>
 	<name>
 		<adios>
 			<love>
@@ -597,20 +597,20 @@
 <team><red></red></team>
 
 <hello>
-	<Robert>
+	<robert>
 		<name>
 			<is>
-				<Robert>
+				<robert>
 					<name>
 					</name>
-				</Robert>
+				</robert>
 			</is>
 			<yes>
 			</yes>
 		</name>
-	</Robert>
+	</robert>
 </hello>
-<Robert><name><is></is></name></Robert>
+<robert><name><is></is></name></robert>
 
 <okay>
 	<go>
@@ -683,52 +683,52 @@
 <suck><foo></foo></suck>
 
 <hello>
-	<Robert>
+	<robert>
 		<name>
 			<is>
-				<Robert>
+				<robert>
 					<name>
 					</name>
-				</Robert>
+				</robert>
 			</is>
 			<yes>
 			</yes>
 		</name>
-	</Robert>
-	<Robert>
+	</robert>
+	<robert>
 		<name>
 		</name>
-	</Robert>
-	<Robert>
+	</robert>
+	<robert>
 		<name>
 		</name>
-	</Robert>
+	</robert>
 </hello>
-<Robert><name></name></Robert>
+<robert><name></name></robert>
 
 <hello>
-	<Robert>
+	<robert>
 		<name>
 			<is>
-				<Robert>
+				<robert>
 					<name>
 					</name>
-				</Robert>
+				</robert>
 			</is>
 			<yes>
 			</yes>
 		</name>
-	</Robert>
-	<Robert>
+	</robert>
+	<robert>
 		<name>
 		</name>
-	</Robert>
-	<Robert>
+	</robert>
+	<robert>
 		<name>
 		</name>
-	</Robert>
+	</robert>
 </hello>
-<Robert><name><yes></yes></name></Robert>
+<robert><name><yes></yes></name></robert>
 
 <someday>
 	<i>

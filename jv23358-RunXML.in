@@ -1,0 +1,1010 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU>
+<Team><Cooly></Cooly></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU><Team><Cooly></Cooly></Team>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><green></green></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><blue></blue></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><yellow></yellow></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><blue></blue></green>
+
+<parent>
+	<child1>
+	</child1>
+	<child2>
+	</child2>
+	<child3>
+	</child3>
+</parent>
+<parent><child1></child1><child2></child2><child3></child3></parent>
+
+<parent>
+	<child1>
+	</child1>
+	<child2>
+	</child2>
+	<child3>
+	</child3>
+</parent>
+<parent><child1></child1><child3></child3></parent>
+
+<parent>
+	<child1>
+	</child1>
+	<child2>
+	</child2>
+	<child3>
+	</child3>
+</parent>
+<parent><child1><child2></child2></child1></parent>
+
+<parent>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+		<grandchild2>
+		</grandchild2>
+		<grandchild3>
+		</grandchild3>
+	</child1>
+	<child2>
+		<grandchild1>
+		</grandchild1>
+		<grandchild2>
+		</grandchild2>
+	</child2>
+	<child3>
+		<grandchild1>
+		</grandchild1>
+	</child3>
+</parent>
+<parent><child1></child1><child2></child2><child3></child3></parent>
+
+<parent>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+		<grandchild2>
+		</grandchild2>
+		<grandchild3>
+		</grandchild3>
+	</child1>
+	<child2>
+		<grandchild1>
+		</grandchild1>
+		<grandchild2>
+		</grandchild2>
+	</child2>
+	<child3>
+		<grandchild1>
+		</grandchild1>
+	</child3>
+</parent>
+<parent><child1><grandchild1></grandchild1></child1><child2><grandchild2></grandchild2></child2><child3></child3></parent>
+
+<parent>
+	<child1>
+	</child1>
+	<child1>
+	</child1>
+	<child1>
+	</child1>
+</parent>
+<parent><child1></child1></parent>
+
+<parent>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+	</child1>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+	</child1>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+	</child1>
+</parent>
+<parent><child1></child1></parent>
+
+<parent>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+	</child1>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+	</child1>
+	<child1>
+		<grandchild1>
+		</grandchild1>
+	</child1>
+</parent>
+<parent><child1><grandchild1></grandchild1></child1></parent>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+</food>
+<food></food>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+</food>
+<food><sandwich></sandwich></food>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+</food>
+<food><sandwich><turkeyburger></turkeyburger></sandwich></food>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+</food>
+<food><sandwich><burger><turkeyburger></turkeyburger></burger></sandwich></food>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+	<sandwich>
+		<ham>
+		</ham>
+	</sandwich>
+</food>
+<food><sandwich></sandwich></food>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+	<sandwich>
+		<ham>
+		</ham>
+		<burger>
+		</burger>
+	</sandwich>
+</food>
+<food><sandwich><burger></burger></sandwich></food>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+	<sandwich>
+		<ham>
+		</ham>
+		<burger>
+		</burger>
+	</sandwich>
+</food>
+<sandwich><burger></burger></sandwich>
+
+<food>
+	<sandwich>
+		<burger>
+			<turkeyburger>
+			</turkeyburger>
+		</burger>
+	</sandwich>
+	<sandwich>
+		<ham>
+		</ham>
+		<burger>
+		</burger>
+	</sandwich>
+</food>
+<turkeyburger></turkeyburger>
+
+<nba>
+	<knicks>
+		<anthony>
+		</anthony>
+	</knicks>
+	<heat>
+		<anthony>
+		</anthony>
+	</heat>
+</nba>
+<anthony></anthony>
+
+<wallet>
+	<money>
+		<one>
+		</one>
+		<five>
+		</five>
+		<ten>
+		</ten>
+	</money>
+	<coins>
+		<penny>
+		</penny>
+		<nickel>
+		</nickel>
+		<dime>
+		</dime>
+		<quarter>
+		</quarter>
+	</coins>
+	<cards>
+		<credit>
+		</credit>
+		<debit>
+		</debit>
+		<license>
+		</license>
+	</cards>
+</wallet>
+<debit></debit>
+
+<wallet>
+	<money>
+		<one>
+		</one>
+		<five>
+		</five>
+		<ten>
+		</ten>
+	</money>
+	<coins>
+		<penny>
+		</penny>
+		<nickel>
+		</nickel>
+		<dime>
+		</dime>
+		<quarter>
+		</quarter>
+	</coins>
+	<cards>
+		<credit>
+		</credit>
+		<debit>
+		</debit>
+		<license>
+		</license>
+	</cards>
+</wallet>
+<cards><credit></credit><debit></debit></cards>
+
+<wallet>
+	<money>
+		<one>
+		</one>
+		<five>
+		</five>
+		<ten>
+		</ten>
+	</money>
+	<coins>
+		<penny>
+		</penny>
+		<nickel>
+		</nickel>
+		<dime>
+		</dime>
+		<quarter>
+		</quarter>
+	</coins>
+	<cards>
+		<credit>
+		</credit>
+		<debit>
+		</debit>
+		<license>
+		</license>
+	</cards>
+</wallet>
+<wallet><one></one></wallet>
+
+<wallet>
+	<money>
+		<one>
+		</one>
+		<five>
+		</five>
+		<ten>
+		</ten>
+	</money>
+	<coins>
+		<penny>
+		</penny>
+		<nickel>
+		</nickel>
+		<dime>
+		</dime>
+		<quarter>
+		</quarter>
+	</coins>
+	<cards>
+		<credit>
+		</credit>
+		<debit>
+		</debit>
+		<license>
+		</license>
+	</cards>
+</wallet>
+<wallet><money><one></one></money></wallet>
+
+<wallet>
+	<money>
+		<one>
+		</one>
+		<five>
+		</five>
+		<ten>
+		</ten>
+	</money>
+	<coins>
+		<penny>
+		</penny>
+		<nickel>
+		</nickel>
+		<dime>
+		</dime>
+		<quarter>
+		</quarter>
+	</coins>
+	<cards>
+		<credit>
+		</credit>
+		<debit>
+		</debit>
+		<license>
+		</license>
+	</cards>
+</wallet>
+<money><one></one></money>
+
+<wallet>
+	<money>
+		<one>
+		</one>
+		<one>
+		</one>
+		<five>
+		</five>
+		<ten>
+		</ten>
+	</money>
+	<coins>
+		<penny>
+		</penny>
+		<nickel>
+		</nickel>
+		<dime>
+		</dime>
+		<quarter>
+		</quarter>
+	</coins>
+	<cards>
+		<credit>
+		</credit>
+		<debit>
+			<chase>
+			</chase>
+			<wamu>
+			</wamu>
+		</debit>
+		<license>
+		</license>
+	</cards>
+</wallet>
+<cards><debit><chase></chase></debit></cards>
+
+<wallet>
+	<money>
+		<one>
+		</one>
+		<five>
+		</five>
+		<ten>
+		</ten>
+	</money>
+	<coins>
+		<penny>
+		</penny>
+		<nickel>
+			<penny>
+			</penny>
+		</nickel>
+		<dime>
+		</dime>
+		<quarter>
+		</quarter>
+	</coins>
+	<cards>
+		<credit>
+		</credit>
+		<debit>
+			<chase>
+			</chase>
+			<wamu>
+			</wamu>
+		</debit>
+		<license>
+		</license>
+	</cards>
+</wallet>
+<coins><penny></penny></coins>
+
+<hundred>
+	<ninety>
+		<eighty>
+			<seventy>
+				<sixty>
+					<fifty>
+						<forty>
+							<thirty>
+								<twenty>
+									<ten>
+										<zero>
+										</zero>
+									</ten>
+								</twenty>
+							</thirty>
+						</forty>
+					</fifty>
+				</sixty>
+			</seventy>
+		</eighty>
+	</ninety>
+</hundred>
+<ten></ten>
+
+<hundred>
+	<ninety>
+		<eighty>
+			<seventy>
+				<sixty>
+					<fifty>
+						<forty>
+							<thirty>
+								<twenty>
+									<ten>
+										<zero>
+										</zero>
+									</ten>
+								</twenty>
+							</thirty>
+						</forty>
+					</fifty>
+				</sixty>
+			</seventy>
+		</eighty>
+	</ninety>
+</hundred>
+<ten><zero></zero></ten>
+
+<hundred>
+	<ninety>
+		<eighty>
+			<seventy>
+				<sixty>
+					<fifty>
+						<forty>
+							<thirty>
+								<twenty>
+									<ten>
+										<zero>
+										</zero>
+									</ten>
+								</twenty>
+							</thirty>
+						</forty>
+					</fifty>
+				</sixty>
+			</seventy>
+		</eighty>
+	</ninety>
+	<eighty>
+	</eighty>
+</hundred>
+<eighty></eighty>
+
+<hundred>
+	<ninety>
+		<eighty>
+			<seventy>
+				<sixty>
+					<fifty>
+						<forty>
+							<thirty>
+								<twenty>
+									<ten>
+										<zero>
+										</zero>
+									</ten>
+								</twenty>
+							</thirty>
+						</forty>
+					</fifty>
+				</sixty>
+			</seventy>
+		</eighty>
+	</ninety>
+	<eighty>
+		<ten>
+			<zero>
+			</zero>
+		</ten>
+	</eighty>
+</hundred>
+<ten></ten>
+
+<hundred>
+	<ninety>
+		<eighty>
+			<seventy>
+				<fifty>
+					<thirty>
+					</thirty>
+				</fifty>
+				<sixty>
+					<fifty>
+						<thirty>
+						</thirty>
+						<twenty>
+						</twenty>
+						<forty>
+							<thirty>
+								<twenty>
+									<ten>
+										<zero>
+										</zero>
+									</ten>
+								</twenty>
+							</thirty>
+						</forty>
+					</fifty>
+				</sixty>
+			</seventy>
+		</eighty>
+	</ninety>
+	<eighty>
+		<ten>
+			<zero>
+			</zero>
+		</ten>
+	</eighty>
+</hundred>
+<fifty><thirty></thirty><twenty></twenty></fifty>
+
+<coat>
+	<jacket>
+		<shirt>
+			<undershirt>
+				<body>
+				</body>
+			</undershirt>
+		</shirt>
+	</jacket>
+	<shirt>
+		<undershirt>
+			<body>
+			</body>
+		</undershirt>
+	</shirt>
+</coat>
+<shirt><undershirt></undershirt></shirt>
+
+<texas>
+	<austin>
+		<georgetown>
+		</georgetown>
+		<roundrock>
+		</roundrock>
+	</austin>
+	<dallas>
+		<garland>
+		</garland>
+		<plano>
+		</plano>
+	</dallas>
+</texas>
+<texas><dallas></dallas><austin></austin></texas>
+
+<arm>
+	<elbow>
+	</elbow>
+	<wrist>
+	</wrist>
+	<hand>
+		<finger>
+			<pinky>
+			</pinky>
+		</finger>
+	</hand>
+</arm>
+<finger><pinky></pinky></finger>
+
+<what>
+	<else>
+		<to>
+			<test>
+				<these>
+					<things>
+					</things>
+				</these>
+			</test>
+		</to>
+	</else>
+	<test>
+		<these>
+		</these>
+		<things>
+		</things>
+	</test>
+</what>
+<test><these><things></things></these></test>
+
+<time>
+	<decades>
+		<years>
+			<months>
+				<weeks>
+					<days>
+						<hours>
+							<minutes>
+								<seconds>
+								</seconds>
+							</minutes>
+						</hours>
+					</days>
+				</weeks>
+			</months>
+		</years>
+	</decades>
+	<years>
+		<months>
+			<weeks>
+				<days>
+					<hours>
+						<minutes>
+							<seconds>
+							</seconds>
+						</minutes>
+					</hours>
+				</days>
+			</weeks>
+		</months>
+	</years>
+	<months>
+		<weeks>
+			<days>
+				<hours>
+					<minutes>
+						<seconds>
+						</seconds>
+					</minutes>
+				</hours>
+			</days>
+		</weeks>
+	</months>
+</time>
+<months><weeks></weeks></months>
+
+<tree>
+	<branches>
+		<fruit>
+		</fruit>
+		<leaves>
+		</leaves>
+	</branches>
+	<trunk>
+	</trunk>
+	<roots>
+	</roots>
+</tree>
+<branches></branches><trunk></trunk><roots></roots>
+
+<tree>
+	<branches>
+		<fruit>
+		</fruit>
+		<leaves>
+		</leaves>
+	</branches>
+	<trunk>
+	</trunk>
+	<roots>
+	</roots>
+</tree>
+<trunk></trunk>
+
+<family>
+	<mom>
+		<brother>
+			<nephew>
+			</nephew>
+		</brother>
+		<sister>
+			<niece>
+			</niece>
+		</sister>
+	</mom>
+	<dad>
+		<brother>
+			<niece>
+			</niece>
+		</brother>
+		<sister>
+			<nephew>
+			</nephew>
+		</sister>
+	</dad>
+</family>
+<brother><nephew></nephew></brother>
+
+<family>
+	<mom>
+		<brother>
+			<nephew>
+			</nephew>
+		</brother>
+		<sister>
+			<niece>
+			</niece>
+		</sister>
+	</mom>
+	<dad>
+		<brother>
+			<niece>
+			</niece>
+		</brother>
+		<sister>
+			<nephew>
+			</nephew>
+		</sister>
+	</dad>
+</family>
+<brother></brother>
+
+<food>
+	<breakfast>
+		<egg>
+		</egg>
+	</breakfast>
+	<lunch>
+		<egg>
+		</egg>
+	</lunch>
+	<dinner>
+		<egg>
+		</egg>
+	</dinner>
+</food>
+<egg></egg>
+
+<food>
+	<breakfast>
+		<egg>
+		</egg>
+		<milk>
+		</milk>
+	</breakfast>
+	<lunch>
+		<egg>
+		</egg>
+		<juice>
+		</juice>
+	</lunch>
+	<dinner>
+		<egg>
+		</egg>
+		<wine>
+		</wine>
+	</dinner>
+</food>
+<wine></wine>
+
+<guess>
+	<chicken>
+	</chicken>
+	<what>
+		<im>
+		<chicken>
+		</chicken>
+			<eating>
+				<chicken>
+					<right>
+					</right>
+				</chicken>
+				<beef>
+					<wrong>
+					</wrong>
+				</beef>
+			</eating>
+		</im>
+	</what>
+</guess>
+<chicken></chicken>
+
+<guess>
+	<chicken>
+	</chicken>
+	<beef>
+	</beef>
+	<what>
+		<im>
+		<beef>
+		</beef>
+		<chicken>
+		</chicken>
+			<eating>
+				<chicken>
+					<right>
+					</right>
+				</chicken>
+				<beef>
+					<wrong>
+					</wrong>
+				</beef>
+			</eating>
+		</im>
+	</what>
+</guess>
+<chicken><right></right></chicken>
+
+<what>
+	<else>
+		<to>
+			<test>
+				<these>
+					<things>
+					</things>
+				</these>
+			</test>
+		</to>
+	</else>
+	<test>
+		<these>
+		</these>
+		<things>
+		</things>
+	</test>
+	<test>
+		<things>
+		</things>
+		<these>
+		</these>
+	</test>
+</what>
+<test><these></these><things></things></test>
+
+<what>
+	<else>
+		<to>
+			<test>
+				<these>
+					<things>
+					</things>
+				</these>
+			</test>
+		</to>
+	</else>
+	<test2>
+		<these>
+		</these>
+		<things>
+		</things>
+	</test2>
+	<test3>
+		<things>
+		</things>
+		<these>
+		</these>
+	</test3>
+</what>
+<not><these></these><things></things></not>
+
+<valentines>
+	<flowers>
+		<sadness>
+		</sadness>
+		<roses>
+			<sadness>
+			</sadness>
+		</roses>
+	</flowers>
+	<chocolates>
+		<sadness>
+		</sadness>
+	</chocolates>
+	<sadness>
+	</sadness>
+</valentines>
+<flowers><sadness></sadness></flowers>
+
+<this>
+	<is>
+		<the>
+			<last>
+				<test>
+					<yes>
+					</yes>
+				</test>
+				<test>
+					<no>
+					</no>
+				</test>
+			</last>
+		</the>
+	</is>
+</this>
+<test><yes></yes></test>
